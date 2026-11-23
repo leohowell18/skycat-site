@@ -1,4 +1,4 @@
-﻿# Portfolio - Leo Howell
+# Portfolio - Leo Howell
 
 
 
@@ -14,7 +14,7 @@ Hi, I'm Leo. I build the systems that keep content accurate and useful at scale,
 
 
 
-### ðŸ§ª AI-Assisted QA Tool with Claude Code
+### 🧪 AI-Assisted QA Tool with Claude Code
 
 
 
@@ -52,7 +52,7 @@ Spotted an unowned bottleneck and built a testing tool with Claude Code that fir
 
 
 
-### ðŸ›¡ï¸ Catching the Errors People Can't See
+### 🛡️ Catching the Errors People Can't See
 
 
 
@@ -88,7 +88,7 @@ Built layered quality checks for a live messaging pipeline handling millions of 
 
 
 
-### ðŸ’Ž Turning Editorial Standards into AI Review
+### 💎 Turning Editorial Standards into AI Review
 
 
 
@@ -122,7 +122,7 @@ Set up two Gemini Gems that let my colleagues review content with AI, no technic
 
 
 
-### ðŸ§© Making Personalization Safe
+### 🧩 Making Personalization Safe
 
 
 
@@ -156,7 +156,7 @@ Built a Python helper library and shaped the data layer of a templating system t
 
 
 
-### âš™ï¸ Live Messaging Product from 0 to 1
+### ⚙️ Live Messaging Product from 0 to 1
 
 
 
@@ -198,7 +198,7 @@ Drove the content side of a brand-new real-time push notification product for ou
 
 
 
-### ðŸ› ï¸ Salvaging a Six-Figure Partnership
+### 🛠️ Salvaging a Six-Figure Partnership
 
 
 
@@ -232,7 +232,7 @@ Stepped in to save a failing business relationship with a major professional spo
 
 
 
-### ðŸ§  Challenged Legacy Language at ESPN
+### 🧠 Challenged Legacy Language at ESPN
 
 
 
@@ -252,7 +252,7 @@ This wasn't just about language. It was about aligning our product and content w
 
 
 
-### ðŸ’» Learning to Code to Remove Bottlenecks
+### 💻 Learning to Code to Remove Bottlenecks
 
 
 
@@ -296,7 +296,7 @@ Proactively taught myself SQL, Jinja2, and Git workflows to eliminate bottleneck
 
 
 
-### âš¾ [Fantasy Baseball 101](https://www.espn.com/fantasy/story/_/id/22335040/fantasy-baseball-espn-fantasy-baseball-101-help-how-play-fantasy-baseball) - User Onboarding Content System
+### ⚾ [Fantasy Baseball 101](https://www.espn.com/fantasy/story/_/id/22335040/fantasy-baseball-espn-fantasy-baseball-101-help-how-play-fantasy-baseball) - User Onboarding Content System
 
 
 
@@ -308,7 +308,7 @@ Created Fantasy Baseball 101 to remove signup friction and improve user satisfac
 
 
 
-### ðŸ“ˆ [What Do We Mean by Scalability?](https://dataskrive.com/what-do-we-mean-by-scalability/)
+### 📈 [What Do We Mean by Scalability?](https://dataskrive.com/what-do-we-mean-by-scalability/)
 
 
 
@@ -320,7 +320,7 @@ A breakdown of why sports content is so hard to produce at scale (the calendar n
 
 
 
-### ðŸ“ [Create, Deliver, and Scale Hyperlocal Sports Content That's Valuable to Your Fans](https://dataskrive.com/create-deliver-and-scale-hyperlocal-sports-content-thats-valuable-to-your-fans/)
+### 📍 [Create, Deliver, and Scale Hyperlocal Sports Content That's Valuable to Your Fans](https://dataskrive.com/create-deliver-and-scale-hyperlocal-sports-content-thats-valuable-to-your-fans/)
 
 
 
