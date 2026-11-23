@@ -1,24 +1,24 @@
-\# Portfolio - Leo Howell
+﻿# Portfolio - Leo Howell
 
 
 
-Hi, I'm Leo. I build the systems that keep content accurate and useful at scale, and I make complex things simple for the people who use them. That means templates, quality checks, and AI-assisted tools that let my teammates do expert work without needing to be experts in the systems underneath. Before that, I spent years as a writer and editor at ESPN and MLB. I'm also a cat dad with a 91% success rate on New York Times' Connections, and a fun addition to any meeting. Check out some of my work below, and feel free to add me on \[LinkedIn](https://www.linkedin.com/in/leo-howell/)!
+Hi, I'm Leo. I build the systems that keep content accurate and useful at scale, and I make complex things simple for the people who use them. That means templates, quality checks, and AI-assisted tools that let my teammates do expert work without needing to be experts in the systems underneath. Before that, I spent years as a writer and editor at ESPN and MLB. I'm also a cat dad with a 91% success rate on New York Times' Connections, and a fun addition to any meeting. Check out some of my work below, and feel free to add me on [LinkedIn](https://www.linkedin.com/in/leo-howell/)!
 
 
 
-\---
+---
 
 
 
-\## What I've Built
+## What I've Built
 
 
 
-\### 🧪 AI-Assisted QA Tool with Claude Code
+### ðŸ§ª AI-Assisted QA Tool with Claude Code
 
 
 
-\*\*What I did\*\*
+**What I did**
 
 
 
@@ -26,37 +26,37 @@ Spotted an unowned bottleneck and built a testing tool with Claude Code that fir
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Used Claude Code to build a tool that constructs mock data matching our system's expected data structure.
+- Used Claude Code to build a tool that constructs mock data matching our system's expected data structure.
 
-\- Wired it into the same logic triggers production uses, so generated values stay realistic and in range instead of random placeholders.
+- Wired it into the same logic triggers production uses, so generated values stay realistic and in range instead of random placeholders.
 
-\- Designed it for editorial teammates without a technical background, not just engineers.
+- Designed it for editorial teammates without a technical background, not just engineers.
 
-\- Handed the prototype to engineering, who integrated it into the production QA stream, then trained the team and drove follow-on improvements.
-
-
-
-\*\*Why it mattered\*\*
+- Handed the prototype to engineering, who integrated it into the production QA stream, then trained the team and drove follow-on improvements.
 
 
 
-\- Cut testing on a new push product from days or weeks to hours. No more waiting on the sports calendar to validate a fix.
-
-\- About half the content team now uses it near-daily, removing a bottleneck that used to sit entirely on me.
-
-\- Lets the team catch and fix issues before launch instead of during live events, when the stakes (and the audience) are highest.
+**Why it mattered**
 
 
 
-\### 🛡️ Catching the Errors People Can't See
+- Cut testing on a new push product from days or weeks to hours. No more waiting on the sports calendar to validate a fix.
+
+- About half the content team now uses it near-daily, removing a bottleneck that used to sit entirely on me.
+
+- Lets the team catch and fix issues before launch instead of during live events, when the stakes (and the audience) are highest.
 
 
 
-\*\*What I did\*\*
+### ðŸ›¡ï¸ Catching the Errors People Can't See
+
+
+
+**What I did**
 
 
 
@@ -64,35 +64,35 @@ Built layered quality checks for a live messaging pipeline handling millions of 
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Defined what "broken" means for our content, including a two-tier error taxonomy: showstoppers, and issues that are acceptable but should be fixed. That pulled the serious problems out of general alerts and feedback, and cut the noise from minor ones.
+- Defined what "broken" means for our content, including a two-tier error taxonomy: showstoppers, and issues that are acceptable but should be fixed. That pulled the serious problems out of general alerts and feedback, and cut the noise from minor ones.
 
-\- Wrote more than 20 SQL monitors that catch bad data, rendering problems, and logic flaws, and validated each one against real output before turning it on.
+- Wrote more than 20 SQL monitors that catch bad data, rendering problems, and logic flaws, and validated each one against real output before turning it on.
 
-\- Chose SQL over AI review on purpose: no added cost, no outside dependencies, and something one person could ship.
+- Chose SQL over AI review on purpose: no added cost, no outside dependencies, and something one person could ship.
 
-\- Built a self-serve app that takes colleagues from a flagged message straight to the template editor to fix it, no SQL access needed.
-
-
-
-\*\*Why it mattered\*\*
+- Built a self-serve app that takes colleagues from a flagged message straight to the template editor to fix it, no SQL access needed.
 
 
 
-\- A whole class of errors now gets caught before customers see it.
-
-\- Fixing problems became self-serve instead of a request to me.
+**Why it mattered**
 
 
 
-\### 💎 Turning Editorial Standards into AI Review
+- A whole class of errors now gets caught before customers see it.
+
+- Fixing problems became self-serve instead of a request to me.
 
 
 
-\*\*What I did\*\*
+### ðŸ’Ž Turning Editorial Standards into AI Review
+
+
+
+**What I did**
 
 
 
@@ -100,33 +100,33 @@ Set up two Gemini Gems that let my colleagues review content with AI, no technic
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Wrote the instructions and context each Gem works from: our standards, the mistakes we see most, and how our templates and data fit together.
+- Wrote the instructions and context each Gem works from: our standards, the mistakes we see most, and how our templates and data fit together.
 
-\- Designed them for teammates without a technical background, so anyone can paste in content or code and get a useful review.
+- Designed them for teammates without a technical background, so anyone can paste in content or code and get a useful review.
 
-\- Shared them through the team's Google accounts so they're part of everyday work, not a tool only I run.
-
-
-
-\*\*Why it mattered\*\*
+- Shared them through the team's Google accounts so they're part of everyday work, not a tool only I run.
 
 
 
-\- Turned standards that lived in my head into a review tool anyone on the team can use.
-
-\- Gave writers a fast first check before content reaches me or goes live.
+**Why it mattered**
 
 
 
-\### 🧩 Making Personalization Safe
+- Turned standards that lived in my head into a review tool anyone on the team can use.
+
+- Gave writers a fast first check before content reaches me or goes live.
 
 
 
-\*\*What I did\*\*
+### ðŸ§© Making Personalization Safe
+
+
+
+**What I did**
 
 
 
@@ -134,33 +134,33 @@ Built a Python helper library and shaped the data layer of a templating system t
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Shaped role-based context (subject and opposing team, offense and defense, leading and trailing) so writers can say who without working it out themselves.
+- Shaped role-based context (subject and opposing team, offense and defense, leading and trailing) so writers can say who without working it out themselves.
 
-\- Wrote helpers for recurring editorial problems, like a vs. an, AP-style numbers, possessives, and stat formats.
+- Wrote helpers for recurring editorial problems, like a vs. an, AP-style numbers, possessives, and stat formats.
 
-\- Made every helper fail gracefully: when data is missing, it returns nothing instead of breaking, so a bad feed produces a shorter message, not a broken one.
-
-
-
-\*\*Why it mattered\*\*
+- Made every helper fail gracefully: when data is missing, it returns nothing instead of breaking, so a bad feed produces a shorter message, not a broken one.
 
 
 
-\- Writers focus on the message, not the logic.
-
-\- Personalization at scale stays readable even when the data isn't perfect.
+**Why it mattered**
 
 
 
-\### ⚙️ Live Messaging Product from 0 to 1
+- Writers focus on the message, not the logic.
+
+- Personalization at scale stays readable even when the data isn't perfect.
 
 
 
-\*\*What I did\*\*
+### âš™ï¸ Live Messaging Product from 0 to 1
+
+
+
+**What I did**
 
 
 
@@ -168,41 +168,41 @@ Drove the content side of a brand-new real-time push notification product for ou
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Got my hands dirty with SQL, Jinja2, Git, and AI tools to remove bottlenecks and take on more of the work the launch needed.
+- Got my hands dirty with SQL, Jinja2, Git, and AI tools to remove bottlenecks and take on more of the work the launch needed.
 
-\- Used years of sports media experience to craft message logic that mattered to customers while heading off problems and errors before they happened.
+- Used years of sports media experience to craft message logic that mattered to customers while heading off problems and errors before they happened.
 
-\- Worked closely with data engineers and product leaders to shape quality checks and improve messaging based on customer feedback and performance data.
-
-
-
-\*\*Why it mattered\*\*
+- Worked closely with data engineers and product leaders to shape quality checks and improve messaging based on customer feedback and performance data.
 
 
 
-\- The product has grown into a seven-figure enterprise upsell.
-
-\- It now delivers live messages to millions of users.
+**Why it mattered**
 
 
 
-\---
+- The product has grown into a seven-figure enterprise upsell.
+
+- It now delivers live messages to millions of users.
 
 
 
-\## What I've Done
+---
 
 
 
-\### 🛠️ Salvaging a Six-Figure Partnership
+## What I've Done
 
 
 
-\*\*What I did\*\*
+### ðŸ› ï¸ Salvaging a Six-Figure Partnership
+
+
+
+**What I did**
 
 
 
@@ -210,33 +210,33 @@ Stepped in to save a failing business relationship with a major professional spo
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Bridged the gap between technical capabilities and the league's requirements to ensure data was ingested, available, and properly displayed.
+- Bridged the gap between technical capabilities and the league's requirements to ensure data was ingested, available, and properly displayed.
 
-\- Overhauled content templates using subject matter expertise, data structure familiarity, and content strategy experience to rebuild client trust and produce high-quality outputs.
-
-
-
-\*\*Why it mattered\*\*
+- Overhauled content templates using subject matter expertise, data structure familiarity, and content strategy experience to rebuild client trust and produce high-quality outputs.
 
 
 
-\- Regained customer trust through direct communication and demonstrated value.
-
-\- Turned around the relationship from on the rocks to earning a renewal.
-
-\- Demonstrated my customer empathy and ability to deliver under pressure.
+**Why it mattered**
 
 
 
-\### 🧠 Challenged Legacy Language at ESPN
+- Regained customer trust through direct communication and demonstrated value.
+
+- Turned around the relationship from on the rocks to earning a renewal.
+
+- Demonstrated my customer empathy and ability to deliver under pressure.
 
 
 
-\*\*What I did\*\*
+### ðŸ§  Challenged Legacy Language at ESPN
+
+
+
+**What I did**
 
 
 
@@ -244,7 +244,7 @@ At ESPN, I initiated a shift away from the term "owner" in fantasy sports, notin
 
 
 
-\*\*Why it mattered\*\*
+**Why it mattered**
 
 
 
@@ -252,11 +252,11 @@ This wasn't just about language. It was about aligning our product and content w
 
 
 
-\### 💻 Learning to Code to Remove Bottlenecks
+### ðŸ’» Learning to Code to Remove Bottlenecks
 
 
 
-\*\*What I did\*\*
+**What I did**
 
 
 
@@ -264,39 +264,39 @@ Proactively taught myself SQL, Jinja2, and Git workflows to eliminate bottleneck
 
 
 
-\*\*How I did it\*\*
+**How I did it**
 
 
 
-\- Learned SQL and relational database concepts to translate raw data into content objects that non-technical writers could use.
+- Learned SQL and relational database concepts to translate raw data into content objects that non-technical writers could use.
 
-\- Taught myself Jinja2 when the company pivoted to code-based content systems, becoming the bridge that enabled editorial teams to contribute without engineering dependencies.
+- Taught myself Jinja2 when the company pivoted to code-based content systems, becoming the bridge that enabled editorial teams to contribute without engineering dependencies.
 
-\- Integrated AI tools and Git workflows to automate repetitive tasks and speed up iteration.
-
-
-
-\*\*Why it mattered\*\*
+- Integrated AI tools and Git workflows to automate repetitive tasks and speed up iteration.
 
 
 
-\- Eliminated technical dependencies: could answer customer questions and build content templates without waiting for engineering availability.
-
-\- Reduced vertical launch timelines by 90% by handling data modeling and template creation directly.
-
-\- Enabled the company's pivot from CMS-based to code-based content systems by bridging the technical and editorial teams.
+**Why it mattered**
 
 
 
-\---
+- Eliminated technical dependencies: could answer customer questions and build content templates without waiting for engineering availability.
+
+- Reduced vertical launch timelines by 90% by handling data modeling and template creation directly.
+
+- Enabled the company's pivot from CMS-based to code-based content systems by bridging the technical and editorial teams.
 
 
 
-\## Things I've Written
+---
 
 
 
-\### ⚾ \[Fantasy Baseball 101](https://www.espn.com/fantasy/story/\_/id/22335040/fantasy-baseball-espn-fantasy-baseball-101-help-how-play-fantasy-baseball) - User Onboarding Content System
+## Things I've Written
+
+
+
+### âš¾ [Fantasy Baseball 101](https://www.espn.com/fantasy/story/_/id/22335040/fantasy-baseball-espn-fantasy-baseball-101-help-how-play-fantasy-baseball) - User Onboarding Content System
 
 
 
@@ -304,11 +304,11 @@ Created Fantasy Baseball 101 to remove signup friction and improve user satisfac
 
 
 
-\*\*Why it matters:\*\* A plain-English guide to a complex game, built to help beginners sign up, get started, and stick around. Built for clarity first, with search in mind.
+**Why it matters:** A plain-English guide to a complex game, built to help beginners sign up, get started, and stick around. Built for clarity first, with search in mind.
 
 
 
-\### 📈 \[What Do We Mean by Scalability?](https://dataskrive.com/what-do-we-mean-by-scalability/)
+### ðŸ“ˆ [What Do We Mean by Scalability?](https://dataskrive.com/what-do-we-mean-by-scalability/)
 
 
 
@@ -316,11 +316,11 @@ A breakdown of why sports content is so hard to produce at scale (the calendar n
 
 
 
-\*\*Why it matters:\*\* Translates a technical, data-driven product into a clear business case for a non-technical B2B audience. Shows the same "why it matters" thinking that shapes my internal strategy work.
+**Why it matters:** Translates a technical, data-driven product into a clear business case for a non-technical B2B audience. Shows the same "why it matters" thinking that shapes my internal strategy work.
 
 
 
-\### 📍 \[Create, Deliver, and Scale Hyperlocal Sports Content That's Valuable to Your Fans](https://dataskrive.com/create-deliver-and-scale-hyperlocal-sports-content-thats-valuable-to-your-fans/)
+### ðŸ“ [Create, Deliver, and Scale Hyperlocal Sports Content That's Valuable to Your Fans](https://dataskrive.com/create-deliver-and-scale-hyperlocal-sports-content-thats-valuable-to-your-fans/)
 
 
 
@@ -328,11 +328,11 @@ A look at how hyper-local, team-first content outperforms bigger national covera
 
 
 
-\*\*Why it matters:\*\* Combines SEO strategy with an understanding of audience psychology, and makes both accessible to readers who aren't SEO experts.
+**Why it matters:** Combines SEO strategy with an understanding of audience psychology, and makes both accessible to readers who aren't SEO experts.
 
 
 
-\*Other bylines from past roles \[can be found here](https://www.clippings.me/lhowell).
+*Other bylines from past roles [can be found here](https://www.clippings.me/lhowell).
 
 
 
