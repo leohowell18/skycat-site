@@ -1,0 +1,46 @@
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 1.5rem;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 0 4rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.3;
+  margin-top: 2rem;
+}
+
+h1 { font-size: 2rem; }
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.3rem;
+}
+h3 { font-size: 1.2rem; }
+
+a { color: #6cb6ff; }
+a:hover { color: #9cd2ff; }
+
+hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin: 2rem 0;
+}
+
+code {
+  background: #1e1e1e;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+}

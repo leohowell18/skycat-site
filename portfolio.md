@@ -1,3 +1,7 @@
+---
+layout: base.njk
+title: Portfolio - Leo Howell
+---
 # Portfolio - Leo Howell
 
 
