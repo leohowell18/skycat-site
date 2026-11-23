@@ -1,10 +1,20 @@
-﻿# \---
+﻿\---
 
-# layout: base.njk
+layout: base.njk
 
-# title: Portfolio - Leo Howell
+title: skycat.fyi
 
-# \---
+\---
 
-# Welcome to my site! More content coming soon! Visit /portfolio for my portfolio. 
+
+
+\# skycat.fyi
+
+
+
+Welcome! This is the home of \*\*Leo Howell\*\*'s "bit of everything" corner of the internet — meteorology notes, projects, writing, and links to find me elsewhere.
+
+
+
+More content coming soon. In the meantime, check out my \[portfolio](/portfolio/).
 
